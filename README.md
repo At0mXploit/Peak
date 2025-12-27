@@ -76,6 +76,9 @@ Build & start everything:
 ```bash
 docker-compose up --build
 ```
+
+> Visit `127.0.0.1:80` not on port `8000`
+
 ## API Endpoints:
 - `POST /login` – Login and receive JWT token
 
